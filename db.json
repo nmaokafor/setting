@@ -1,13 +1,11 @@
 { 
 "data": {
     "profileForm": {
-    "profileEdit": false,
-    "fullName":"",
-    "phone":"",
-    "address":""
+    "fullName":"Nma O",
+    "phone":"070577277",
+    "address":"Lagos"
     },
     "notificationForm": {
-        "notificationEdit": false
     },
     "message": "settings details.",
     "status": true,
