@@ -10,5 +10,16 @@
     "message": "settings details.",
     "status": true,
     "status_code": 200
+    },
+    loanForm: {
+        loanProcess: '',
+        interestRate: '',
+    },
+    investmentForm: {
+        loanProcess: '',
+        interestRate: '',
+    },
+        repaymentForm: {
+        repaymentCycle: '',
     }
 }
