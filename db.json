@@ -11,12 +11,12 @@
         loanProcess: '',
         interestRate: '',
     },
-    investmentForm: {
-        loanProcess: '',
-        interestRate: '',
+    "investmentForm": {
+        "loanProcess": "",
+        "interestRate": "",
     },
-    repaymentForm: {
-        repaymentCycle: '',
+    "repaymentForm": {
+        "repaymentCycle": "",
     },
     "message": "settings details.",
     "status": true,
