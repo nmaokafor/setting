@@ -7,9 +7,9 @@
     },
     "notificationForm": {
     },
-    loanForm: {
-        loanProcess: '',
-        interestRate: '',
+    "loanForm": {
+        "loanProcess": "",
+        "interestRate": "",
     },
     "investmentForm": {
         "loanProcess": "",
