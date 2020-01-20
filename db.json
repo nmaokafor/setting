@@ -7,15 +7,15 @@
 		},
 		"notificationForm": {},
 		"loanForm": {
-			"loanProcess": "",
-			"interestRate": ""
+			"loanProcess": true,
+			"interestRate": "20"
 		},
 		"investmentForm": {
-			"loanProcess": "",
-			"interestRate": ""
+			"loanProcess": true,
+			"interestRate": 10
 		},
 		"repaymentForm": {
-			"repaymentCycle": ""
+			"repaymentCycle": true
 		},
 		"message": "settings details.",
 		"status": true,
