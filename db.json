@@ -15,10 +15,11 @@
         loanProcess: '',
         interestRate: '',
     },
-        repaymentForm: {
+    repaymentForm: {
         repaymentCycle: '',
     },
     "message": "settings details.",
     "status": true,
     "status_code": 200
+}
 }
