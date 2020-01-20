@@ -10,7 +10,7 @@
 			"loanProcess": "",
 			"interestRate": 0,
 			"automaticChecked": true,
-               		"manualChecked": false,
+               		"manualChecked": false
 		},
 		"investmentForm": {
 			"loanProcess": true,
