@@ -7,10 +7,6 @@
     },
     "notificationForm": {
     },
-    "message": "settings details.",
-    "status": true,
-    "status_code": 200
-    },
     loanForm: {
         loanProcess: '',
         interestRate: '',
@@ -21,5 +17,8 @@
     },
         repaymentForm: {
         repaymentCycle: '',
-    }
+    },
+    "message": "settings details.",
+    "status": true,
+    "status_code": 200
 }
