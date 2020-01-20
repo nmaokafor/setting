@@ -1,25 +1,24 @@
-{ 
-"data": {
-    "profileForm": {
-    "fullName":"Nma O",
-    "phone":"070577277",
-    "address":"Lagos"
-    },
-    "notificationForm": {
-    },
-    "loanForm": {
-        "loanProcess": "",
-        "interestRate": "",
-    },
-    "investmentForm": {
-        "loanProcess": "",
-        "interestRate": "",
-    },
-    "repaymentForm": {
-        "repaymentCycle": "",
-    },
-    "message": "settings details.",
-    "status": true,
-    "status_code": 200
-}
+{
+	"data": {
+		"profileForm": {
+			"fullName": "Nma O",
+			"phone": "070577277",
+			"address": "Lagos"
+		},
+		"notificationForm": {},
+		"loanForm": {
+			"loanProcess": "",
+			"interestRate": ""
+		},
+		"investmentForm": {
+			"loanProcess": "",
+			"interestRate": ""
+		},
+		"repaymentForm": {
+			"repaymentCycle": ""
+		},
+		"message": "settings details.",
+		"status": true,
+		"status_code": 200
+	}
 }
