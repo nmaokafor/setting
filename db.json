@@ -15,7 +15,7 @@
 		"investmentForm": {
 			"autoProcessThresholdAmount": 0,
                 	"minInvestment": 0,
-                	"maxInvestment": 0,
+                	"maxInvestment": 10,
                 	"callBackUrl": ""
 		},
 		"repaymentForm": {
