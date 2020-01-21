@@ -13,8 +13,10 @@
                		"manualChecked": false
 		},
 		"investmentForm": {
-			"loanProcess": true,
-			"interestRate": 10
+			"autoProcessThresholdAmount": 0,
+                	"minInvestment": 0,
+                	"maxInvestment": 0,
+                	"callBackUrl": ""
 		},
 		"repaymentForm": {
 			"repaymentCycle": true
