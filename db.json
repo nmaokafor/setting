@@ -7,7 +7,7 @@
 		},
 		"notificationForm": {},
 		"loanForm": {
-			"loanProcess": "",
+			"loanProcess": "automatic",
 			"interestRate": 0,
 			"automaticChecked": true,
                		"manualChecked": false
