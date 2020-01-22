@@ -13,10 +13,10 @@
                		"manualChecked": false
 		},
 		"investmentForm": {
-			"autoProcessThresholdAmount": 0,
-                	"minInvestment": 0,
-                	"maxInvestment": 10,
-                	"callBackUrl": ""
+			"treshold_amount": 0,
+                	"minimum_amount": 0,
+                	"maximum_amount": 10,
+                	"callback_url": ""
 		},
 		"repaymentForm": {
 			"repaymentCycle": true
